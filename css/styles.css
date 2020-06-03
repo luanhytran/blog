@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 600;
+  background-color: #ffffff;
+}
+
+.top-container {
+  background-color: #d4f3ef;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Pacifico', cursive;
+  font-weight: lighter;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto;
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.profile_img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.code_img {
+  width: 22%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.soccer_img {
+  width: 22%;
+  float: right;
+  margin-right: 30px;
+}
+
+.skills {}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+}
+
+.soccer_img_description {}
+
+.code_img_description {}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  color: #dddddd;
+  margin: 100px auto;
+}
+
+.contact-me {
+  margin: 100px auto;
+}
+
+.contact-me-description {
+  width: 40%;
+  margin: 40px auto 60px;
+  
+}
+
+.copyright {
+  color: white;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.myButton {
+  box-shadow: 0px 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #00b7fa 5%, #408c99 100%);
+  background-color: #00b7fa;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #3d768a;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #00b7fa 100%);
+  background-color: #408c99;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 20px 10px;
+}
+a:hover{
+  color: white;
+}
+.copyright{
+  font-size: 0.75rem;
+  padding: 20px 0px; 
+}
